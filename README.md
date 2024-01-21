@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Olá 👋
+- Sou um desenvolvedor tipo espagueti, talvez miojo, todo mundo fala mal, mas na hora que precisa resolver alguma coisa recorre a nós;
+- Sou péssimo em UI/UX;
+- Tirei até nota boa na disciplina de programação, mexendo com C, lá no IC/Unicamp, mas fiz mesmo Física/IFGW;
+- Gosto de Software Livre, tecnologias abertas, desmontar e modificar quase qualquer coisa;
+- Gosto de Códigos e de receitas.
+  
 <!--
 **AntonioCelso/AntonioCelso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
